@@ -1,0 +1,16 @@
+*.pyc
+*~
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenv
+.venv/
+venv/
+ENV/
+myvenv
+newenv
+db.sqlite3
+/static
+.DS_Store
