@@ -25,7 +25,7 @@ SECRET_KEY = '1%zv2p0l9tp%_s1gk&_^852b(&dz)o#mb4c7h8w_io$@m4$9$*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.willhom.myftp.org']
+ALLOWED_HOSTS = ['127.0.0.1', '.willhom.myftp.org', '.pythonanywhere.com']
 
 
 # Application definition
